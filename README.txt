@@ -1,0 +1,2 @@
+Sistema de controle de login que autentica usuários com base em login e senha. 
+Verifica se o usuário está ativo e controla o tempo de sessão em cada tela do sistema, garantindo segurança e acesso autorizado durante a navegação.
